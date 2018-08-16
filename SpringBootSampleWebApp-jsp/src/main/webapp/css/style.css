@@ -1,0 +1,40 @@
+
+
+#wrapper
+{
+ text-align:center;
+ margin:0 auto;
+ padding:0px;
+ width:995px;
+}
+
+
+
+
+.outerBox{
+	text-align: center;
+	border: solid;
+	padding: 50px;
+	
+	
+}
+
+
+.btn{
+	
+	font-size: 40px;
+	height: 200px;
+	width: 500px;
+	background-color:powderblue;
+}
+
+#output_image
+{
+ max-width:300px;
+}
+				
+#submitButton{
+	
+	max-width: 100px;
+	
+}
